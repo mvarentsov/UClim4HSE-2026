@@ -75,8 +75,19 @@ def load_weaclim4month (station_id, year, month, url="http://www.pogodaiklimat.r
     return df
 
 def load_weaclim4period (station_id, start, end, out_dir, url=None):
+    
+    if isinstance (station_id, str): 
+        try:
+            pd.to_numeric(station_id)
+            is_numeric_id = True
+        except:
+            is_numeric_id = False
+    else:
+        is_numeric_id = False
+    
+
     if url is None: 
-        url = "http://www.pogodaiklimat.ru/usaweather.php?" if isinstance (station_id, str) else "http://www.pogodaiklimat.ru/weather.php?" 
+        url = "http://www.pogodaiklimat.ru/usaweather.php?" if not is_numeric_id else "http://www.pogodaiklimat.ru/weather.php?" 
 
     os.makedirs(out_dir, exist_ok=True)
     station_dir = os.path.join(out_dir, f'{station_id}')
