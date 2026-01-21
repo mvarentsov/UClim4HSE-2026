@@ -82,8 +82,8 @@ def load_weaclim4period (station_id, start, end, out_dir, url=None):
     station_dir = os.path.join(out_dir, f'{station_id}')
     os.makedirs(station_dir, exist_ok=True)
         
-    pbar = tqdm (list (rrule(MONTHLY, dtstart=start, until = end)), desc="Loading weaclim data for %s"%str(station_id))
-    for cur_date in pbar:
+   
+    for cur_date in (pbar := tqdm (list (rrule(MONTHLY, dtstart=start, until = end)), desc="Loading weaclim data for %s"%str(station_id))):
         
         pbar.set_postfix_str(f"Processing: {cur_date.strftime('%Y-%m')}")
         
@@ -194,11 +194,14 @@ def read_weaclim_dir (path, return_raw = False):
 
     li = []
 
-    for filename in all_files:
+    for filename in (pbar := tqdm(all_files)):
+        pbar.set_postfix_str(f'reading {filename}')
         df = pd.read_csv(filename, header=0, parse_dates=['Datetime'], index_col = ['Datetime'])
         li.append(df)
 
     frame = pd.concat(li, axis=0) #, ignore_index=True)
+
+    frame = frame.sort_index()
 
     frame_sel = frame[['Т(С)', 'f(%)', 'P(гПа)', 'Po(гПа)']].copy()
     frame_sel.columns = ['t2m', 'rh2m', 'slp', 'ps']
