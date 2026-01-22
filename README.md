@@ -12,10 +12,10 @@
 
 ## Материалы по курсу
 
-|№| Дата | Тема | Материалы |
+|№ занятия| Дата | Тема | Материалы |
 |-| ---- | -----| --------- |
 |1| 14.01.2026| Введение в городскую метеорологию и климатологию |[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture01%20slides.pdf)|
-|1| 28.01.2026| Наблюдения для исследования и моделирования городского климата |[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture02%20slides.pdf)<br>[Ноутбук, загрузка данных weaclim](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect02_load_weaclim_example.ipynb)<br>[Ноутбук для Google Colab](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect02_Colab_demo.ipynb)|
+|2| 28.01.2026| Наблюдения для исследования и моделирования городского климата |[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture02%20slides.pdf)<br>[Ноутбук, загрузка данных weaclim](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect02_load_weaclim_example.ipynb)<br>[Ноутбук для Google Colab](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect02_Colab_demo.ipynb)|
 
 ## Домашние задания
 
