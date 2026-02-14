@@ -16,8 +16,7 @@
 |-| ---- | -----| --------- |
 |1| 14.01.2026| Введение в городскую метеорологию и климатологию |[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture01%20slides.pdf)|
 |2| 21.01.2026| Наблюдения для исследования и моделирования городского климата |[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture02%20slides.pdf)<br>[Ноутбук, загрузка данных weaclim](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect02_load_weaclim_example.ipynb)<br>[Ноутбук для Google Colab](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect02_Colab_demo.ipynb)|
-|3| 28.01.2026| Современные подходы к моделированию погоды и климата
- |[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture03%20slides.pdf)<br>[Ноутбук, работа с ERA5 c с помощью xarray](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect03_xarray_demo.ipynb)|
+|3| 28.01.2026| Современные подходы к моделированию погоды и климата|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture03%20slides.pdf)<br>[Ноутбук, работа с ERA5 c помощью xarray](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect03_xarray_demo.ipynb)|
 
 ## Домашние задания
 
@@ -27,7 +26,7 @@
 |№|Тип| Тема | Срок сдачи | Материалы |
 |-|---|----------|------------|---------- |
 |1|Эссе|Как знания об особенностях городского климата можно использовать для решения проблем населения и экономики?| 22.01.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW1.md) 
-|2|Практическая работа|Анализ данных метеорологического мониторинга для городов | 04.02.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW2.md) 
+|2|Практическая работа|Анализ данных метеорологического мониторинга для городов | ~~04.02.2026~~ 11.02.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW2.md) 
 
 
 ## Рекомендуемая литература
