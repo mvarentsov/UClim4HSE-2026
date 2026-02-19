@@ -18,7 +18,7 @@
 |2| 21.01.2026| Наблюдения для исследования и моделирования городского климата |[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture02%20slides.pdf)<br>[Ноутбук, загрузка данных weaclim](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect02_load_weaclim_example.ipynb)<br>[Ноутбук для Google Colab](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect02_Colab_demo.ipynb)|
 |3| 28.01.2026| Современные подходы к моделированию погоды и климата|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture03%20slides.pdf)<br>[Ноутбук, работа с ERA5 c помощью xarray](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect03_xarray_demo.ipynb)|
 |4| 11.02.2026| Виды моделей городского климата|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture04%20slides.pdf)
-|5| 18.02.2026| Пространственные данные для моделирования городского климата|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture05%20slides.pdf)
+|5| 18.02.2026| Пространственные данные для моделирования городского климата|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture05%20slides.pdf) Ноутбук (работа с OSM)](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect05_example_OSM.ipynb)</br>  [Ноутбук (работа с картой ЛКЗ)](https://github.com/mvarentsov/UClim4HSE-2026/blob/mTin/scripts/Lect05_example_LCZ.ipynb)
 |6| 19.02.2026| Работа с моделью городского полога TEB|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture06%20slides.pdf)
 
 
