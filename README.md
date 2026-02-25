@@ -1,4 +1,4 @@
-<img width="1698" height="210" alt="image" src="https://github.com/user-attachments/assets/06cfb604-3eda-4499-a4a1-3f2805496e6a" /># UClim4HSE-2026
+# UClim4HSE-2026
 
 Курс "Моделирование климата городов" для факультета географии и геоинформационных технологий Высшей школы экономики.  
 
