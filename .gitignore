@@ -208,3 +208,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 scripts/weaclim_data/27605/27605_202301.csv
+/Soft/RayManPro
+/scripts/cache
+ERA5_demo_data/Moscow 2022.nc
