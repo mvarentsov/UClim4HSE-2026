@@ -37,7 +37,7 @@
 |4|Практическая работа|Анализ пространственных данных о городской среде | 04.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW4.md) 
 |5|Практическая работа|Работа с моделью городского полога TEB (Town Energy Balance) | 04.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW5.md) 
 |6|Практическая работа|Моделирование термического комфорта | 11.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW6.md) 
-|7|Практическая работа|Микромасштабное моделирование| 18.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW6.md) 
+|7|Практическая работа|Микромасштабное моделирование| 18.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW7.md) 
 
 
 ## Рекомендуемая литература
