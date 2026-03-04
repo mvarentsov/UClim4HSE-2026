@@ -21,6 +21,7 @@
 |5| 18.02.2026| Пространственные данные для моделирования городского климата|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture05%20slides.pdf)<br>[Ноутбук (работа с OSM)](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect05_example_OSM.ipynb)<br>[Ноутбук (работа с картой ЛКЗ)](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect05_example_LCZ.ipynb)
 |6| 19.02.2026| Работа с моделью городского полога TEB|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture06%20slides.pdf)<br>[Ноутбук (запуск TEB в Colab)](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect06_run_TEB.ipynb)<br>[Ноутбук (подготовка форсинга)](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect06_ERA5_to_TEB.ipynb)
 |7| 25.02.2026| Комфортность городского климата|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture07%20slides.pdf)<br>[Ноутбук (пример с biometeo)](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/scripts/Lect07_example_biometeo.ipynb)
+|8| 04.02.2026| Микромасштабное моделирование|[Презентация](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture08_MV%20slides.pdf)<br>[Презентация (работа в ENVI-met by А.А. Коспанов)](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/presentations/Lecture08_MV%20slides.pdf)
 
 
 ## Домашние задания
@@ -36,6 +37,7 @@
 |4|Практическая работа|Анализ пространственных данных о городской среде | 04.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW4.md) 
 |5|Практическая работа|Работа с моделью городского полога TEB (Town Energy Balance) | 04.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW5.md) 
 |6|Практическая работа|Моделирование термического комфорта | 11.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW6.md) 
+|7|Практическая работа|Микромасштабное моделирование| 18.03.2026 | [Описание](https://github.com/mvarentsov/UClim4HSE-2026/blob/main/homeworks/HW6.md) 
 
 
 ## Рекомендуемая литература
