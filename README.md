@@ -44,6 +44,7 @@
 
 ### Основы метеорологии и климатологии
 - Хромов С.П., Петросянц М.А. Метеорология и климатология. – М.: Издательство Московского университета, 2012. — 584 с.
+- Ahrens, C. D., & Henson, R. (2022). Meteorology today: an introduction to weather, climate and the environment (13th edition). Cengage, Boston, USA.
 
 ### Городская метеорология 
 - Oke T. R., Mills G., Christen A., & Voogt J. A. (2017). *Urban Climates.* Cambridge: Cambridge University Press. https://doi.org/10.1017/9781139016476
